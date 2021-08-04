@@ -2,11 +2,9 @@ package helpers;
 
 import com.github.javafaker.Faker;
 import enums.Status;
-import enums.Status;
 import models.Category;
 import models.Pet;
 import models.Tag;
-import org.apache.commons.lang3.RandomStringUtils;
 
 import java.util.Random;
 
